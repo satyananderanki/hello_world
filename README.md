@@ -1,2 +1,2 @@
-# hello_world
+# OOP task
 repository
